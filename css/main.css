@@ -2244,9 +2244,9 @@ pre .javascript .function {
   content: "|";
   padding-left: 10px;
 }
-.use-motion .post {
+/* .use-motion .post {
   opacity: 0;
-}
+} */
 .page-archive .archive-page-counter {
   position: relative;
   top: 3px;
