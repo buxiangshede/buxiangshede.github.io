@@ -1303,7 +1303,7 @@ pre .javascript .function {
   border-bottom: none;
 }
 .posts-collapse .post-title a span{
-  margin-right: 30px;
+  margin-left: 30px;
 }
 .page-home .post-type-quote .post-header,
 .page-post-detail .post-type-quote .post-header,
