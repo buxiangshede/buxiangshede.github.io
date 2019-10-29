@@ -1302,6 +1302,9 @@ pre .javascript .function {
   color: #666;
   border-bottom: none;
 }
+.posts-collapse .post-title a span{
+  margin-right: 30px;
+}
 .page-home .post-type-quote .post-header,
 .page-post-detail .post-type-quote .post-header,
 .page-home .post-type-quote .post-tags,
